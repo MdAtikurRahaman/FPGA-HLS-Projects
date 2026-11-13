@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sun Mar  7 19:16:43 2021
+# Process ID: 24076
+# Current directory: D:/labs/HLSLDSeq/P02S05-Utilities/pulse_generator/pulse_generator-vitishls/solution1/sim/verilog
+# Command line: wbtcv.exe -mode batch -source D:/labs/HLSLDSeq/P02S05-Utilities/pulse_generator/pulse_generator-vitishls/solution1/sim/verilog/xsim.dir/pulse_generator/webtalk/xsim_webtalk.tcl -notrace
+# Log file: D:/labs/HLSLDSeq/P02S05-Utilities/pulse_generator/pulse_generator-vitishls/solution1/sim/verilog/webtalk.log
+# Journal file: D:/labs/HLSLDSeq/P02S05-Utilities/pulse_generator/pulse_generator-vitishls/solution1/sim/verilog\webtalk.jou
+#-----------------------------------------------------------
+source D:/labs/HLSLDSeq/P02S05-Utilities/pulse_generator/pulse_generator-vitishls/solution1/sim/verilog/xsim.dir/pulse_generator/webtalk/xsim_webtalk.tcl -notrace

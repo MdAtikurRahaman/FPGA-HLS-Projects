@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="pulse_generator.h" path="D:\labs\HLSLDSeq\P03S01-DigitalDice\exercises\exercise01\pulse_generator-vitishls\pulse_generator.h"/>
+    <originFiles name="pulse_generator.cpp" path="D:\labs\HLSLDSeq\P03S01-DigitalDice\exercises\exercise01\pulse_generator-vitishls\pulse_generator.cpp"/>
+  </source>
+  <testbench>
+    <originFiles name="pulse_generator-tb.h" path="D:\labs\HLSLDSeq\P03S01-DigitalDice\exercises\exercise01\pulse_generator-vitishls\pulse_generator-tb.h"/>
+    <originFiles name="pulse_generator-tb.cpp" path="D:\labs\HLSLDSeq\P03S01-DigitalDice\exercises\exercise01\pulse_generator-vitishls\pulse_generator-tb.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>

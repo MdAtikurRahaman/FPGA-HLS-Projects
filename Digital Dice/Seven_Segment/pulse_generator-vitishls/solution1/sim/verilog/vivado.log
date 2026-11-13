@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sun Mar  7 19:17:39 2021
+# Process ID: 3392
+# Current directory: D:/labs/HLSLDSeq/P02S05-Utilities/pulse_generator/pulse_generator-vitishls/solution1/sim/verilog
+# Command line: vivado.exe -source open_wave.tcl
+# Log file: D:/labs/HLSLDSeq/P02S05-Utilities/pulse_generator/pulse_generator-vitishls/solution1/sim/verilog/vivado.log
+# Journal file: D:/labs/HLSLDSeq/P02S05-Utilities/pulse_generator/pulse_generator-vitishls/solution1/sim/verilog\vivado.jou
+#-----------------------------------------------------------
+start_gui
+source open_wave.tcl
+# current_fileset
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Xilinx/Vivado/2020.2/data/ip'.
+current_fileset: Time (s): cpu = 00:00:09 ; elapsed = 00:00:05 . Memory (MB): peak = 1153.742 ; gain = 0.000
+# open_wave_database pulse_generator.wdb
+open_wave_config D:/labs/HLSLDSeq/P02S05-Utilities/pulse_generator/pulse_generator-vitishls/solution1/sim/verilog/pulse_generator.wcfg
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+exit
+INFO: [Common 17-206] Exiting Vivado at Sun Mar  7 21:31:11 2021...

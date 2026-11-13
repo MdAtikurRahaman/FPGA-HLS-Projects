@@ -1,0 +1,6 @@
+   Build using "D:/Xilinx/Vitis_HLS/2020.2/tps/win64/msys64/mingw64/bin/g++"
+   Compiling pulse_generator-tb.cpp_pre.cpp.tb.cpp
+   Compiling apatb_pulse_generator.cpp
+   Compiling pulse_generator.cpp_pre.cpp.tb.cpp
+   Compiling apatb_pulse_generator_ir.ll
+   Generating cosim.tv.exe
